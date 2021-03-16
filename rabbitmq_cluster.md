@@ -31,7 +31,8 @@
 
 ```
 ~]$ wget http://www.rpmfind.net/linux/centos/7.9.2009/os/x86_64/Packages/socat-1.7.3.2-2.el7.x86_64.rpm
-wget https://github.com/rabbitmq/erlang-rpm/release/download/v22.2.1/erlang-22.2-1.el7.x86_64.rpm
+~]$ wget https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.7.16/rabbitmq-server-3.7.16-1.el7.noarch.rpm
+~]$ wget wget https://github.com/rabbitmq/erlang-rpm/releases/download/v22.2/erlang-22.2-1.el7.x86_64.rpm
 ```
 
 **安装程序包**
